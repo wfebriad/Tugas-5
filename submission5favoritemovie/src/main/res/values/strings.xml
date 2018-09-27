@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Submission 5 Favorite Movie</string>
+    <string name="detail">Detail</string>
+    <string name="postermovie">Poster Movie</string>
+    <string name="release_date">Release Date</string>
+    <string name="deskripsi">Description</string>
+</resources>

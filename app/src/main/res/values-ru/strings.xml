@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Submission 5</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+    <string name="detail">Подробно</string>
+    <string name="favorite">Любииый</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_run">First Run</string>
+    <string name="now_playing">Сейчас Играет</string>
+    <string name="upcomming">Предстоящий</string>
+    <string name="postermovie">Плакат Фильм</string>
+    <string name="search">Поиск</string>
+    <string name="release_date">Дата Выпуска</string>
+    <string name="deskripsi">Описание</string>
+    <string name="home">Главная</string>
+    <string name="now_plying">Сейчас Играет</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Submission 5</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">세트</string>
+    <string name="detail">세부 묘사</string>
+    <string name="favorite">특히 잘하는</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_run">First Run</string>
+    <string name="now_playing">지금 게임하다</string>
+    <string name="upcomming">다가오는</string>
+    <string name="postermovie">포스터 필름</string>
+    <string name="search">수색</string>
+    <string name="release_date">출시일</string>
+    <string name="deskripsi">기술</string>
+    <string name="home">집</string>
+    <string name="now_plying">지금 게임하다</string>
+</resources>
